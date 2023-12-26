@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     onlineSettings()
     nameSettings()
     buttonSettings()
-    let dateOfBirth = "03.11.1984"
+    let dateOfBirth = "05.11.1984"
     personInfoSettings(text: dateOfBirth, element: DateOfBirth)
     let position = "Работник"
     personInfoSettings(text: position, element: Position)
