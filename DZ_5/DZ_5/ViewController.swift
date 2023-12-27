@@ -10,6 +10,7 @@ class ViewController: UIViewController {
   @IBOutlet private weak var Position: UILabel!
   @IBOutlet private weak var Company: UILabel!
   @IBOutlet private weak var Family: UILabel!
+  @IBOutlet private weak var calculatorButton: UIButton!
 
   override func viewDidLoad() {
     super.viewDidLoad()
@@ -21,11 +22,8 @@ class ViewController: UIViewController {
     onlineSettings()
     nameSettings()
     buttonSettings()
-    let dateOfBirth = "03.11.1984"
     personInfoSettings(text: dateOfBirth, element: DateOfBirth)
-    let position = "Работник"
     personInfoSettings(text: position, element: Position)
-    let company = "Компания"
     personInfoSettings(text: company, element: Company)
     let famly = "Женат"
     personInfoSettings(text: famly, element: Family)
@@ -63,8 +61,18 @@ class ViewController: UIViewController {
   }
 
   @IBAction private func buttonDidTap(){
-    printContent("Кнопка нажата")
+    print("Кнопка Изменить нажата")
   }
 
+  @IBAction private func goToCalculatorButton(){
+    let mainStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let secondVc = mainStoryboard.instantiateViewController(withIdentifier: "СalculatorViewController")
+    navigationController?.pushViewController(secondVc, animated: true)
+  }
+
+  private let dateOfBirth = "03.11.1984"
+  private let position = "Работник"
+  private let company = "Компания"
+  private let famly = "Женат"
 }
 
