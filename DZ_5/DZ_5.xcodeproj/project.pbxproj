@@ -13,6 +13,7 @@
 		D16440BF2B3B595200D4899E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D16440BD2B3B595200D4899E /* Main.storyboard */; };
 		D16440C12B3B595300D4899E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D16440C02B3B595300D4899E /* Assets.xcassets */; };
 		D16440C42B3B595300D4899E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D16440C22B3B595300D4899E /* LaunchScreen.storyboard */; };
+		D16440CC2B3B6DF300D4899E /* СalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D16440CB2B3B6DF300D4899E /* СalculatorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D16440C02B3B595300D4899E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D16440C32B3B595300D4899E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D16440C52B3B595300D4899E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D16440CB2B3B6DF300D4899E /* СalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "СalculatorViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +58,14 @@
 		D16440B62B3B595200D4899E /* DZ_5 */ = {
 			isa = PBXGroup;
 			children = (
-				D16440B72B3B595200D4899E /* AppDelegate.swift */,
 				D16440B92B3B595200D4899E /* SceneDelegate.swift */,
 				D16440BB2B3B595200D4899E /* ViewController.swift */,
 				D16440BD2B3B595200D4899E /* Main.storyboard */,
 				D16440C02B3B595300D4899E /* Assets.xcassets */,
 				D16440C22B3B595300D4899E /* LaunchScreen.storyboard */,
+				D16440B72B3B595200D4899E /* AppDelegate.swift */,
 				D16440C52B3B595300D4899E /* Info.plist */,
+				D16440CB2B3B6DF300D4899E /* СalculatorViewController.swift */,
 			);
 			path = DZ_5;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D16440CC2B3B6DF300D4899E /* СalculatorViewController.swift in Sources */,
 				D16440BC2B3B595200D4899E /* ViewController.swift in Sources */,
 				D16440B82B3B595200D4899E /* AppDelegate.swift in Sources */,
 				D16440BA2B3B595200D4899E /* SceneDelegate.swift in Sources */,

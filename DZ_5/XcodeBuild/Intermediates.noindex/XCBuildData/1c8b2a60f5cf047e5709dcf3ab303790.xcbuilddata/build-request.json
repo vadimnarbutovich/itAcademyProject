@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "02770b7d123d199c8579e1266dbf9de3e3fd84936beb1606fc2e0a925105a29c"
+    }
+  ],
+  "containerPath" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/DZ_5.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex",
+      "buildProductsPath" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Products",
+      "derivedDataPath" : "/Users/narbutovich/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/narbutovich/Library/Developer/Xcode/DerivedData/DZ_5-buqbgwprqdeptmfmsecwilgauior/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/narbutovich/Library/Developer/Xcode/DerivedData/DZ_5-buqbgwprqdeptmfmsecwilgauior/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad13,18",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad13,18",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "6C679FA8-91B5-4925-83FD-035C329C0BFB",
+          "TARGET_DEVICE_MODEL" : "iPad13,18",
+          "TARGET_DEVICE_OS_VERSION" : "17.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
