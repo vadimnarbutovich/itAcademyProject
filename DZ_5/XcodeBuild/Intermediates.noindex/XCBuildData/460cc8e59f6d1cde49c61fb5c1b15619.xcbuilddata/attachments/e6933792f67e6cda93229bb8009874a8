@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/DZ_5-master.dia",
+    "emit-module-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/DZ_5-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/DZ_5-master-emit-module.dia",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/DZ_5-master.swiftdeps"
+  },
+  "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/DZ_5/AppDelegate.swift" : {
+    "const-values" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/DZ_5/SceneDelegate.swift" : {
+    "const-values" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/DZ_5/ViewController.swift" : {
+    "const-values" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/DZ_5/СalculatorViewController.swift" : {
+    "const-values" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.swiftconstvalues",
+    "dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.d",
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.dia",
+    "index-unit-output-path" : "/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.o",
+    "llvm-bc" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.bc",
+    "object" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.o",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController.swiftdeps",
+    "swiftmodule" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/СalculatorViewController~partial.swiftmodule"
+  },
+  "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/narbutovich/Downloads/itAcademyProject/DZ_5/XcodeBuild/Intermediates.noindex/DZ_5.build/Debug-iphonesimulator/DZ_5.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
